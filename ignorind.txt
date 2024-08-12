@@ -1,0 +1,4 @@
+*.docx
+*.abc
+*.[oabcxyzs!@#$%]
+*.xlsx
